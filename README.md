@@ -1,4 +1,4 @@
-# Azure-Analysis-Services-Workshop
+# Azure Analysis Services Workshop
 
 ***
 
